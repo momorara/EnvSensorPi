@@ -1,0 +1,20 @@
+Bookworm以降は仮想環境を作ってから以下をインストールして下さい。
+
+🔳仮想環境を作る
+python3 -m venv V_env --system-site-packages
+
+
+🔳TSL2561
+pip install adafruit-circuitpython-tsl2561
+
+
+
+
+🔳仮想環境の有効化
+source V_env/bin/activate
+
+🔳仮想環境から抜け出すのは
+deactivate
+
+🔳仮想環境の削除
+rm -rf ~/V_env/
