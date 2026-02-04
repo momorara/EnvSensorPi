@@ -30,7 +30,7 @@ git clone https://github.com/momorara/EnvSensorPi<br>
 
 <h4><<使用説明資料>></h4> 
 説明書類の中の資料を確認ください。<br>
-お問い合わせに関しては、サポート.txtを参照ください。****<br>
+お問い合わせに関しては、サポート窓口を参照ください。****<br>
 
 <h4><<ライセンス>></h4>
 本製品には、MIT License、BSD License、LGPL 等のオープンソースソフトウェアが含まれています。<br>
