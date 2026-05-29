@@ -23,7 +23,7 @@ hosei = 0.0
 # path = lib_path.get_path()
 # print(path)
 # cronの場合は指定が必要
-path = '/home/pi/envsensor/'
+path = '/home/pi/EnvSensorPi/'
 
 
 import datetime
