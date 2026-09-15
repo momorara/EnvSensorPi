@@ -30,6 +30,7 @@ git clone https://github.com/momorara/EnvSensorPi<br>
 2026/03/16 対応OS：Trixie版13.4(64bit)にて動作確認しました。<br>
 2026/05/29 対応OS：Trixie版13.5(64bit)にて動作確認しました。<br>
 2026/07/22 対応OS：Trixie版13.6(64bit)にて動作確認しました。<br>
+2026/09/15 対応OS：Trixie版13.7(64bit)にて動作確認しました。<br>
 
 <h4><<使用説明資料>></h4> 
 説明書類の中の資料を確認ください。<br>
