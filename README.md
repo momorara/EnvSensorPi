@@ -37,6 +37,7 @@ git clone https://github.com/momorara/EnvSensorPi<br>
 2026/05/29 対応OS：Trixie版13.5(64bit)にて動作確認しました。<br>
 2026/07/22 対応OS：Trixie版13.6(64bit)にて動作確認しました。<br>
 2026/09/15 対応OS：Trixie版13.7(64bit)にて動作確認しました。<br>
+2026/11/28 対応OS：Trixie版13.8(64bit)にて動作確認しました。<br>
 
 <h4><<使用説明資料>></h4> 
 説明書類の中の資料を確認ください。<br>
@@ -54,6 +55,7 @@ Released under the MIT license です。<br>
 
 <h4><<アップデート>></h4>
 2026/05/29 プログラム中のファイルパスが間違っていたので、修正しました。<br>
+2026/11/28　blynkサービスに対応しました。<br>
 
 <h4><<サポート窓口>></h4>
   メールアドレスが　tkj-works@mbr.nifty.com に変更になっています。<br>
